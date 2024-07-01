@@ -1,6 +1,7 @@
 //
 // GRRM_OnioM.c:
 // Copyright (C) 2020-2024 Kimichi Suzuki
+// Author: Kimichi Suzuki <ki_suzuki@eis.hokudai.ac.jp>
 //
 // This program is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
